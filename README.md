@@ -1,2 +1,25 @@
-# 70b7829b-pharmacy-drug-store-social-m
-Tired of staring at a blank square every morning, scrambling to find a compliant, engaging post for your pharmacy while juggling inventory and patient questions?  This template pack eliminates the daily content block and compliance headaches. With 50+ pre-designed, editable templates tailored specifically for drug stores, you get a full month of en
+# Pharmacy & Drug Store Social Media Content Template Pack
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/9B64gz12De2M09a6fyd0p0O)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/9B64gz12De2M09a6fyd0p0O)
+
